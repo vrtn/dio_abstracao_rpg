@@ -1,0 +1,16 @@
+C:\projetos\csharp\dio\dio_abstracao_rpg\bin\Debug\net5.0\dio_abstracao_rpg.exe
+C:\projetos\csharp\dio\dio_abstracao_rpg\bin\Debug\net5.0\dio_abstracao_rpg.deps.json
+C:\projetos\csharp\dio\dio_abstracao_rpg\bin\Debug\net5.0\dio_abstracao_rpg.runtimeconfig.json
+C:\projetos\csharp\dio\dio_abstracao_rpg\bin\Debug\net5.0\dio_abstracao_rpg.runtimeconfig.dev.json
+C:\projetos\csharp\dio\dio_abstracao_rpg\bin\Debug\net5.0\dio_abstracao_rpg.dll
+C:\projetos\csharp\dio\dio_abstracao_rpg\bin\Debug\net5.0\dio_abstracao_rpg.pdb
+C:\projetos\csharp\dio\dio_abstracao_rpg\obj\Debug\net5.0\dio_abstracao_rpg.csproj.AssemblyReference.cache
+C:\projetos\csharp\dio\dio_abstracao_rpg\obj\Debug\net5.0\dio_abstracao_rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\csharp\dio\dio_abstracao_rpg\obj\Debug\net5.0\dio_abstracao_rpg.AssemblyInfoInputs.cache
+C:\projetos\csharp\dio\dio_abstracao_rpg\obj\Debug\net5.0\dio_abstracao_rpg.AssemblyInfo.cs
+C:\projetos\csharp\dio\dio_abstracao_rpg\obj\Debug\net5.0\dio_abstracao_rpg.csproj.CoreCompileInputs.cache
+C:\projetos\csharp\dio\dio_abstracao_rpg\obj\Debug\net5.0\dio_abstracao_rpg.dll
+C:\projetos\csharp\dio\dio_abstracao_rpg\obj\Debug\net5.0\refint\dio_abstracao_rpg.dll
+C:\projetos\csharp\dio\dio_abstracao_rpg\obj\Debug\net5.0\dio_abstracao_rpg.pdb
+C:\projetos\csharp\dio\dio_abstracao_rpg\obj\Debug\net5.0\dio_abstracao_rpg.genruntimeconfig.cache
+C:\projetos\csharp\dio\dio_abstracao_rpg\obj\Debug\net5.0\ref\dio_abstracao_rpg.dll
